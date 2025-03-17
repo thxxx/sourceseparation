@@ -1,0 +1,9 @@
+pretrained2/*
+main/weights_*
+model_epoch*
+total_model*
+*/.ipynb_checkpoints/
+music_audioset*
+*/train_.csv
+*/valid_.csv
+*.pth
